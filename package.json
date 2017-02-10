@@ -1,0 +1,19 @@
+{
+  "name": "sample-ca-domain-object",
+  "version": "0.0.1",
+  "description": "A simple Clean Architecture domain object sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordandenison/sample-CA-domain-object.git"
+  },
+  "author": "Jordan Denison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordandenison/sample-CA-domain-object/issues"
+  },
+  "homepage": "https://github.com/jordandenison/sample-CA-domain-object#readme"
+}
